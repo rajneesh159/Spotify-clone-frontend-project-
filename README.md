@@ -34,7 +34,7 @@ Follow these instructions to get the project up and running on your local machin
 1. Clone this repository to your local machine using your preferred method (HTTPS or SSH).
 
 ```bash
-git clone https://github.com/your-username/spotify-clone-frontend.git
+git clone https://github.com/rajneesh159/spotify-clone-frontend.git
 ```
 
 2. Navigate to the project directory.
